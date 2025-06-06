@@ -1,1 +1,1 @@
-# tribute-page
+rename kayy.html to index.html
